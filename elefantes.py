@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+print "Este programa fue realizado por mi"
 elefantes = int(raw_input("Cuantos elefantes"))
 cant_elefantes = 0
 while elefantes > cant_elefantes:
